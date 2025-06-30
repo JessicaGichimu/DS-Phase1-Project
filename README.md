@@ -98,23 +98,23 @@ The dashboard was created in Tableau Public and consists of 5 worksheets and 1 m
 
 A color scheme was used for clarity. In addition, the dashboard features interactive elements such as filters, tooltips and legends which help in data exploration.
 
-To view the dashboard, open ------ using Tableau Desktop or Tableau Public Desktop.
+[View the full dashboard on Tableau Public](https://public.tableau.com/app/profile/jessica.gichimu/viz/AviationAccidentRiskDashboard/AviationAccidentRiskDashboard19622023?publish=yes)
+
 
 
 ## 8. Files in This Repository
 
-Project.ipynb — Full data analysis in Python
+Full data analysis in Python - (https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/Project.ipynb)
 
-aviation_dashboard.twbx — Tableau dashboard workbook
+Tableau dashboard workbook - (https://public.tableau.com/app/profile/jessica.gichimu/viz/AviationAccidentRiskDashboard/AviationAccidentRiskDashboard19622023?publish=yes)
 
-aviation_dashboard.pdf — Static version of dashboard
+Final stakeholder presentation slides - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/presentation.pdf
 
-"C:\Users\Jessica\Downloads\presentation.pdf" — Final stakeholder presentation
+Cleaned dataset used in data analysis - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/aviation_dashboard_data.csv
 
-data/aviation_data.csv — Cleaned dataset used in data analysis
+Project overview and documentation - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/README.md
 
-README.md — Project overview and documentation
-
+Interactive dashboard for stakeholder use - https://public.tableau.com/app/profile/jessica.gichimu/viz/AviationAccidentRiskDashboard/AviationAccidentRiskDashboard19622023?publish=yes
 
 ## 10. Conclusion
 
