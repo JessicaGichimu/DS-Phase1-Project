@@ -109,7 +109,7 @@ aviation_dashboard.twbx — Tableau dashboard workbook
 
 aviation_dashboard.pdf — Static version of dashboard
 
-presentation.pdf — Final stakeholder presentation
+"C:\Users\Jessica\Downloads\presentation.pdf" — Final stakeholder presentation
 
 data/aviation_data.csv — Cleaned dataset used in data analysis
 
