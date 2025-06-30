@@ -112,6 +112,8 @@ Final stakeholder presentation slides - https://github.com/JessicaGichimu/DS-Pha
 
 Cleaned dataset used in data analysis - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/aviation_dashboard_data.csv
 
+Static PDF version of the dashboard - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/aviation_dashboard.pdf
+
 Project overview and documentation - https://github.com/JessicaGichimu/DS-Phase1-Project/blob/master/README.md
 
 Interactive dashboard for stakeholder use - https://public.tableau.com/app/profile/jessica.gichimu/viz/AviationAccidentRiskDashboard/AviationAccidentRiskDashboard19622023?publish=yes
@@ -122,7 +124,7 @@ This project demonstrates how aviation accident data can aid in making safer dec
 
 Insights from the data analysis help regulators, manufacturers and operators minimize risk and allocate resources where they are most needed.
 
-By combining the historical data, data visualizations and actionable recommendations, the project ensures data-driven aviation safety planning.
+By combining the data, data visualizations and actionable recommendations, the project ensures data-driven aviation safety planning.
 
 ## 11. Recommendations
 
